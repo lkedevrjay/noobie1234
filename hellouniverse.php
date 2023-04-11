@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello conflict changes";
+echo "Hello test changes";
